@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>6.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\6.jpg</path>
+	<path>/home/blessed/object_detection_demo/data/images/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,75 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>hands</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>248</ymin>
-			<xmax>503</xmax>
-			<ymax>424</ymax>
+			<xmin>530</xmin>
+			<ymin>341</ymin>
+			<xmax>591</xmax>
+			<ymax>405</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>hands</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>292</ymin>
-			<xmax>243</xmax>
-			<ymax>434</ymax>
+			<xmin>571</xmin>
+			<ymin>395</ymin>
+			<xmax>642</xmax>
+			<ymax>461</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>hands</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>497</xmin>
-			<ymin>240</ymin>
-			<xmax>643</xmax>
-			<ymax>455</ymax>
+			<xmin>154</xmin>
+			<ymin>168</ymin>
+			<xmax>244</xmax>
+			<ymax>243</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>face</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>339</xmin>
-			<ymin>116</ymin>
-			<xmax>409</xmax>
-			<ymax>212</ymax>
+			<xmin>645</xmin>
+			<ymin>112</ymin>
+			<xmax>737</xmax>
+			<ymax>242</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>face</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>115</xmin>
-			<ymin>141</ymin>
-			<xmax>226</xmax>
-			<ymax>248</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>587</xmin>
-			<ymin>332</ymin>
-			<xmax>706</xmax>
-			<ymax>420</ymax>
+			<xmin>126</xmin>
+			<ymin>83</ymin>
+			<xmax>213</xmax>
+			<ymax>187</ymax>
 		</bndbox>
 	</object>
 </annotation>
